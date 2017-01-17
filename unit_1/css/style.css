@@ -1,7 +1,7 @@
 body {
-    background-color: gray;
+    background-color: light-gray;
 }
 
 h1, p {
-    color: blue;
+    color: teal;
 }
